@@ -6,7 +6,7 @@
     <entry>
       <title><![CDATA[chrome_devtools]]></title>
       <url>http://isteven.info/2017/03/19/chrome-devtools/</url>
-      <content type="html"><![CDATA[<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">DevTools 我们天天在用，然而你真正了解它么，未必2</span><br></pre></td></tr></table></figure>
+      <content type="html"><![CDATA[<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">DevTools 我们天天在用，然而你真正了解它么，未必</span><br></pre></td></tr></table></figure>
 <a id="more"></a>
 <h3 id="了解"><a href="#了解" class="headerlink" title="了解"></a>了解</h3><ul>
 <li>DevTools 的源码就在<a href="https://chromium.googlesource.com/chromium/blink.git/+/master/Source/devtools/" target="_blank" rel="noopener">Google的blink项目</a>中，高度的开放。目前这么多丰富的功能，正是 Google 和其社区的共同贡献。同时它的 License 也不拒绝任何的二次开发。</li>
